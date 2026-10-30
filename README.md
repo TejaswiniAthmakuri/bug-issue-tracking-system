@@ -3,6 +3,10 @@
 ## Project Overview
 A web-based Bug and Issue Tracking System developed to manage, track, and monitor software bugs efficiently.
 
+## Dashboard Preview
+
+![Bug Tracker Dashboard](screenshots/dashboard.png)
+
 ## Features
 - Create, view, update, and delete bugs.
 - Dashboard with bug summary cards.
